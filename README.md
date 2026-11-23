@@ -1,12 +1,10 @@
 # Systems Architecture and Automation Code Showcase
 
-Curated engineering modules by Garrett M. Harper ([Portfolio](https://garrett-m-harper.github.io/)) demonstrating deterministic state management, schema validation gates, spatial and volumetric computation, structured compliance tracking, and automated data pipelines.
+Selected engineering modules by Garrett M. Harper ([Portfolio](https://garrett-m-harper.github.io/)) covering deterministic state management, schema validation gates, spatial and volumetric computation, structured compliance tracking, and automated data pipelines.
 
-Target repository: `https://github.com/Garrett-M-Harper/systems-architecture-showcase`
+## Architecture Overview
 
-## Engineering Focus: Systems of Logic, Organization, and Data Flow
-
-Across both simulation code and operational automation, these modules share a common architectural approach: explicit data contracts, deterministic validation before execution, bounded computation budgets, and repeatable state convergence.
+Across both simulation code and operational automation, these modules follow explicit data contracts, deterministic validation before execution, bounded computation budgets, and repeatable state convergence.
 
 - **Validation Gates**: Reject malformed schemas, mismatched directional ports, cyclic ownership graphs, and non-compliant vendor invoices before downstream execution.
 - **Deterministic State Management**: Encode explicit finite-state transitions, quality degradation ladders, and DOM read-back retry loops so runtime behavior stays predictable under async or failure conditions.

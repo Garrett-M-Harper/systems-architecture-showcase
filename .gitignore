@@ -7,3 +7,4 @@ profile.json
 *.uid
 .godot/
 .import/
+REPO_URL.txt
